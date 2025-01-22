@@ -1,0 +1,25 @@
+/* Footer Container */
+.footer-container {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px 5px;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Footer Content */
+  .footer-content p {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .footer-content p {
+      font-size: 0.9rem;
+    }
+  }
+  
