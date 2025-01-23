@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44e2dda0.css",
+    "main.js": "/static/js/main.a53a552d.js",
+    "static/media/young_woman.jpg": "/static/media/young_woman.1fdfb8aeaa866a4649ef.jpg",
+    "static/media/train-station.jpg": "/static/media/train-station.f2159d442c4b073ce2b6.jpg",
+    "static/media/pexels-onorblog.jpg": "/static/media/pexels-onorblog.ab0f95784f1a5ff02c1a.jpg",
+    "index.html": "/index.html",
+    "main.44e2dda0.css.map": "/static/css/main.44e2dda0.css.map",
+    "main.a53a552d.js.map": "/static/js/main.a53a552d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e2dda0.css",
+    "static/js/main.a53a552d.js"
+  ]
+}
